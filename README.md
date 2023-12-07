@@ -10,7 +10,10 @@
 <!--     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a> -->
-    [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://niravpatel.vercel.app/)
+<!--     [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://niravpatel.vercel.app/) -->
+ <a href="https://niravpatel.vercel.app/">
+      <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
 
   </div>
   <img src="https://komarev.com/ghpvc/?username=niravpatell23&style=flat-square&color=blue" alt=""/>
@@ -33,7 +36,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nirav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nniravpatel/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nirav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nniravpatel/)
 
 ---
 
